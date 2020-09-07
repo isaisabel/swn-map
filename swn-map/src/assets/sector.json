@@ -1,0 +1,386 @@
+{
+    "name": "sector",
+    "properties": {
+        "systems": [
+            {
+                "name": "Volimus Majoris",
+                "properties": {
+                    "planets": [
+                        { 
+                            "name": "Yi Xiu",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Variable Warm",
+                                "biosphere": "Human-miscible",
+                                "population": "Several Million",
+                                "tech level": "TL4+"
+                            },
+                            "notes": []
+                        }, { 
+                            "name": "Kala",
+                            "properties": {
+                                "atmosphere": "Invasive",
+                                "temperature": "Warm",
+                                "biosphere": "Human-miscible",
+                                "population": "Several Million",
+                                "tech level": "TL0"
+                            },
+                            "notes": [ "a note about Kala"]
+                        }
+                    ],
+                    "notes": ["a note about Volimus Majoris"]
+                }
+            },
+            {
+                "name": "Saepere Ultos",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Besti",
+                        "properties": {
+                            "atmosphere": "Breathable",
+                            "temperature": "Temperate",
+                            "biosphere": "Human-miscible",
+                            "population": "Several Million",
+                            "tech level": "TL3"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Psi Quelus",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Jaemea",
+                        "properties": {
+                            "atmosphere": "Breathable",
+                            "temperature": "Temparate",
+                            "biosphere": "Immiscible",
+                            "population": "Fewer than one million",
+                            "tech level": "TL4"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Herbat",
+                "properties": {
+                    "planets": [
+                        { 
+                            "name": "Chimea",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Temparate",
+                                "biosphere": "Human-miscible",
+                                "population": "Hundreds of Millions",
+                                "tech level": "TL2"
+                            },
+                            "notes": []
+                        }, { 
+                            "name": "Rakua",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Temparate",
+                                "biosphere": "Immiscible",
+                                "population": "Several Million",
+                                "tech level": "TL4"
+                            },
+                            "notes": []
+                        }
+                    ],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Cursea Majoris",
+                "properties": {
+                    "planets": [
+                        { 
+                            "name": "Diusi",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Temparate",
+                                "biosphere": "Microbial",
+                                "population": "Fewer than one million",
+                                "tech level": "TL4"
+                            },
+                            "notes": []
+                        }, { 
+                            "name": "Cursea",
+                            "properties": {
+                                "atmosphere": "Airless",
+                                "temperature": "Variable Warm",
+                                "biosphere": "Immiscible",
+                                "population": "Hundreds of Millions",
+                                "tech level": "TL4"
+                            },
+                            "notes": []
+                        }
+                    ],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Secis Primer Rho",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Cantra",
+                        "properties": {
+                            "atmosphere": "Inert",
+                            "temperature": "Warm",
+                            "biosphere": "Immiscible",
+                            "population": "Several Million",
+                            "tech level": "TL5"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Siloi-Kingston",
+                "planets": [{ 
+                    "name": "Siloi-Kingston Station",
+                    "properties": {
+                        "atmosphere": "Airless",
+                        "temperature": "Frozen",
+                        "biosphere": "None",
+                        "population": "Several Million",
+                        "tech level": "TL4"
+                    },
+                    "notes": []
+                }],
+                "notes": []
+            },
+            {
+                "name": "Repella",
+                "properties": {
+                    "planets": [
+                        { 
+                            "name": "Rapella IV",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Temparate",
+                                "biosphere": "Human-miscible",
+                                "population": "Hundreds of Millions",
+                                "tech level": "TL4"
+                            },
+                            "notes": []
+                        }
+                    ],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Rapacerunt",
+                "properties": {
+                    "planets": [
+                        { 
+                            "name": "Colli's World",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Cold",
+                                "biosphere": "No Native Biosphere",
+                                "population": "Outpost",
+                                "tech level": "TL1"
+                            },
+                            "notes": []
+                        }
+                    ],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Quoderam Infror",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Ita",
+                        "properties": {
+                            "atmosphere": "Thin",
+                            "temperature": "Variable Cold",
+                            "biosphere": "Human-miscible",
+                            "population": "Fewer than one million",
+                            "tech level": "TL2"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Fructis",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Regina",
+                        "properties": {
+                            "atmosphere": "Invasive",
+                            "temperature": "Variable Cold",
+                            "biosphere": "Engineered",
+                            "population": "Hundreds of Millions",
+                            "tech level": "TL4"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Xi Motimus",
+                "properties": {
+                    "planets": [
+                        { 
+                            "name": "Fedette",
+                            "properties": {
+                                "atmosphere": "Inert",
+                                "temperature": "Temparate",
+                                "biosphere": "Immiscible",
+                                "population": "Several Million",
+                                "tech level": "TL4"
+                            },
+                            "notes": []
+                        }, { 
+                            "name": "Sihnon",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Variable Warm",
+                                "biosphere": "No Native Biosphere",
+                                "population": "Several Million",
+                                "tech level": "TL3"
+                            },
+                            "notes": []
+                        }, { 
+                            "name": "Aberdeen",
+                            "properties": {
+                                "atmosphere": "Thick",
+                                "temperature": "Variable Warm",
+                                "biosphere": "Immiscible",
+                                "population": "Outpost",
+                                "tech level": "TL2"
+                            },
+                            "notes": []
+                        }
+                    ],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Fructes Minor",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Beaumonde",
+                        "properties": {
+                            "atmosphere": "Breathable",
+                            "temperature": "Temparate",
+                            "biosphere": "Human-miscible",
+                            "population": "Fewer than one million",
+                            "tech level": "TL3"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Sternius Prime",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Londinium",
+                        "properties": {
+                            "atmosphere": "Breathable",
+                            "temperature": "Frozen",
+                            "biosphere": "Immiscible",
+                            "population": "Several Million",
+                            "tech level": "TL4"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Pacificateo",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Ares",
+                        "properties": {
+                            "atmosphere": "Thick",
+                            "temperature": "Temparate",
+                            "biosphere": "Human-miscible",
+                            "population": "Fewer than one million",
+                            "tech level": "TL1"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Theta Tyrannis",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Silverhold",
+                        "properties": {
+                            "atmosphere": "Breathable",
+                            "temperature": "Variable Warm",
+                            "biosphere": "No Native Biosphere",
+                            "population": "Fewer than one million",
+                            "tech level": "TL4"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Alpha Flagitum",
+                "properties": {
+                    "planets": [{ 
+                        "name": "Alpha Flagitum",
+                        "properties": {
+                            "atmosphere": "Breathable",
+                            "temperature": "Variable Cold",
+                            "biosphere": "No Native Biosphere",
+                            "population": "Several Million",
+                            "tech level": "TL5"
+                        },
+                        "notes": []
+                    }],
+                    "notes": []
+                }
+            },
+            {
+                "name": "Aea",
+                "properties": {
+                    "planets": [
+                        { 
+                            "name": "New Babylon",
+                            "properties": {
+                                "atmosphere": "Breathable",
+                                "temperature": "Warm",
+                                "biosphere": "Remnanat",
+                                "population": "Billions",
+                                "tech level": "TL0"
+                            },
+                            "notes": []
+                        },
+                        { 
+                            "name": "Aea I",
+                            "properties": {
+                                "atmosphere": "Thick",
+                                "temperature": "Burning",
+                                "biosphere": "Human-Miscible",
+                                "population": "Failed Colony",
+                                "tech level": "TL5"
+                            },
+                            "notes": []
+                        }
+                    ],
+                    "notes": []
+                }
+            }
+        ]
+    }
+}
